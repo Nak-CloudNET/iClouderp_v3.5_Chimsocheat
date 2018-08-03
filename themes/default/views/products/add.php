@@ -821,6 +821,7 @@ if (!empty($variants)) {
         ?>
 		
 		function add_product_item(item) {
+
             if (item == null) {
                 return false;
             }
@@ -837,6 +838,7 @@ if (!empty($variants)) {
             $.each(items, function () {
                 var row_no = this.id;
 				total = this.price * this.qty;
+
                 var newTr = $('<tr id="row_' + row_no + '" class="item_' + this.id + '"></tr>');
                 tr_html = '<td><input name="combo_item_id[]" type="hidden" value="' + this.id + '"><input name="combo_item_name[]" type="hidden" value="' + this.name + '"><input name="combo_item_code[]" type="hidden" value="' + this.code + '"><span id="name_' + row_no + '">' + this.name + ' (' + this.code + ')</span></td>';
                 tr_html += '<td><input class="form-control text-center qty" name="combo_item_quantity_unit[]" type="text" value="' + formatDecimal(this.qty) + '" data-id="' + row_no + '" data-item="' + this.id + '" id="quantity_' + row_no + '" onClick="this.select();"></td>';			
