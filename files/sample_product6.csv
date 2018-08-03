@@ -1,0 +1,592 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+P810,P810 Cable P810,,Controller,4,43.74,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+106 14030065,LXC 106 Controller,,Controller,4,42,60,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TU520A,ATS TU520A Controller,,Controller,4,280,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+7320-010-03,DSE 7320 Controller KII,,Controller,4,340,450,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8610-300-01,DSE 8610 Controller,,Controller,4,1208,1600,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+7120 1706002,LXC 7120 Controller,,Controller,4,113.33,186,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+6120E 1708223,LXC 6120 Controller  ,,Controller,4,78.69,156,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+6110 1607007,LXC 6110 Controller  ,,Controller,4,90.87,150,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3120 1710013,LXC 3120 Controller ,,Controller,4,52.69,90,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+706 1509171,LXC 706 Controller ,,Controller,4,40.69,60,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE325490,MSP675 Sensor ,,Sensor,4,11.76,16,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A105-0936822,Oil Sensor Germany,,Sensor,4,26.25,50,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A105-0836823,Oil Pressur Sensor,,Sensor,4,12.69,17,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A105-0828495,Temperator Sensor,,Sensor,4,10.69,17,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A106-0748170,Oil Pressure Guage 24V,,Sensor,4,6.9,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A101-0743531,Oil Press.Guage  12V ,,Sensor,4,6.88,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A106-0831054,Temperature Guage 24V,,Sensor,4,7.2,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A105-0820563,Temperature Guage  12V,,Sensor,4,7,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+A105-0827777,110-240V Quartz Hour meter,,Sensor,4,7.9,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+HM-1,Hour meter 220V ,,Sensor,4,5.5,6.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EN 511000,សោដេល្អ,,Sensor,4,5,5.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8​85700900 4360,រីឡេជំនួយដេ 12V,,Sensor,4,3.5,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+885700900​ 4344,រីឡេជំនួយដេ 24V,,Sensor,4,3.5,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TEMP 80",នាឡិកាកំដៅ ,,Sensor,4,10,10.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SSW-0-0-100 LBS,នាឡិកាប្រេង ,,Sensor,4,5.5,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+*TMR-102*,រីឡេកំដៅ ​12V ,,Sensor,4,8.5,9.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+AM 44-50A,នាឡិកាសាកអាគុយ,,Sensor,4,2.3,2.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+28V 1500W,ឌីសង់ទ័រ 24V,,Sensor,4,2,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+14V 1500W,ឌីសង់ទ័រ 12V,,Sensor,4,2,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FL24V,អំពូលភ្នែកកង្កែប 24V,,Sensor,4,1.2,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FL12V,អំពូលភ្នែកកង្កែប 12V,,Sensor,4,1.2,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+HB+50-50,ក្បាលចាប់អាគុយ ,,Sensor,3,0.56,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+232C-111503024,សូលីនណយ  24V ,,Solenoid,4,14.9,25,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+232C-111503012,សូលីនណយ  12V  ,,Solenoid,4,12.9,25,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+7 960822300012,សូលីនណយ 12V​​​ XHQ,,Solenoid,4,13.9,19,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+7 960822300024,សូលីនណយ 24V XHQ,,Solenoid,4,13.9,19,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+1503ES 12SSUCSS,សូលីនណយ 1503ES-12V​ Yanamr,,Solenoid,4,14.2,19,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+366-07197,សូលីនណយ SA-3405T -12V ,,Solenoid,4,19.9,35,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+366-07198,សូលីនណយ SA-3405T -24V ,,Solenoid,4,19.9,35,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3018453,សូលីនណយបើកប្រែង 24V ,,Solenoid,4,20,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3050692,Switch Magnetic 24V Cummins,,Solenoid,4,23.76,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LBC2405B1706001,សាក់អាគុយ LBC240B  24VSpoil 2Pc,,Battery Charger,4,29.53,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LBC2405B1706057,សាក់អាគុយ LBC240B  24V,,Battery Charger,4,24.5,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LBC1208B1707035,សាក់អាគុយ LBC1208B  12V Spoil 6Pc,,Battery Charger,4,29.5,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LBC1208B1706046,សាក់អាគុយ LBC1208B  12V,,Battery Charger,4,24.5,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BAC06A 24V,សាក់អាគុយ 24V Aisikai,,Battery Charger,4,20,43,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BAC06A 12V,សាក់អាគុយ 12V Aisikai,,Battery Charger,4,20,43,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ADB2251602008,Actuator  ADB225 - 24V  ,,Actualtor,4,87.5,180,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ADB2251612015,Actuator  ADB225 - 12V  ,,Actualtor,4,81,180,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IEZ65-521,Actuator​ ADC 120-24V (Spoil 2pcs),,Actualtor,4,88,140,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3408324,Actuator 3408324 ,,Actualtor,4,85.63,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3408326,Actuator 3408326 ,,Actualtor,4,80,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+01704 00061,AVR-15C,,AVR,4,17,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE09-6076,AVR-15B,,AVR,4,20.69,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE09-0765,AVR-12A,,AVR,4,17,35,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE09-3516,AVR-20A,,AVR,4,26.31,60,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE09-9212,AVR-25A,,AVR,4,29.5,65,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+01510 04791,AVR-10A ,,AVR,4,21.73,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE09-1868,AVR-8A,,AVR,4,17,30,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IE10-0658,AVR-8AH,,AVR,4,14,26,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+460 1710258,SX-460B ,,AVR,4,18.69,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SX4401608146,SX-440--B ,,AVR,4,23,55,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+80520/1509087,MX 321-2 AVR  ,,AVR,4,74,150,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+80206/4344,VR-6 AVR  ,,AVR,4,117,250,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+341853349,MX 341-B ,,AVR,4,41,80,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+RSK6001,យ៉ូតគ្រាប់,,Diode Bridge,4,41.88,60,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MXY(G)40-12,យ៉ូតកោងជើង​៤,,Diode Bridge,4,16.9,35,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+6714603004,6714+syncro meter,,HLS Relay,4,56.52,70,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+HLS-CMA3-24V,Relay HLS-CMA3 DC24V,,HLS Relay,4,1.3,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+HLS-CMA3-12V,Relay HLS-CMA3 DC 12V ,,HLS Relay,4,1.3,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+2000 1703143,EG-2000  Governor,,Governor,4,45,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+5570 1702003,ESC 5570 Governor ,,Governor,4,67,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IEU76 4194,ESC 5550  Governor,,Governor,4,54,160,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+5520 160914,ESC 5520  Governor,,Governor,4,52,140,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IEY68-7227,ESC 5111 Governor,,Governor,4,30,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+IEJ79-1664,ESC 5500  Governor,,Governor,4,36,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+6700H 1506007,S6700H   Governor,,Governor,4,62,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+17100034,CE 3044196 Governor Cummins,,Governor,4,43,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ZP60-AAS ,Level Switch ZP60-AAS L100MM ,,Level Switch,4,53.5,80,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ZP63-1200AAS,Level Switch ZP63-1200AAS =1200LMM ,,Level Switch,4,68.5,95,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CR30-15AO ,Proximity Sensor 100-240VAC,,Level Switch,4,25.67,30,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CR30-15DN,Proximity Sensor 12-24VDC,,Level Switch,4,25,30,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT2-63,ATS 4P 63A  ,,ATS Aisikai,4,97,130,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT2-100,ATS 4P 100A,,ATS Aisikai,4,97,160,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-125,ATS 4P 125A  ,,ATS Aisikai,4,120,190,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-160,ATS  4P 160A ,,ATS Aisikai,4,128,220,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-250,ATS  4P 250A,,ATS Aisikai,4,140,300,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-400,ATS  4P 400A,,ATS Aisikai,4,258,450,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-630,ATS  4P 630A,,ATS Aisikai,4,260,650,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-800,ATS  4P 800A,,ATS Aisikai,4,686.5,1000,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-1250,ATS  4P 1250A,,ATS Aisikai,4,680,1250,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-1600,ATS 4P 1600A,,ATS Aisikai,4,872,1400,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-2500A,ATS 4P 2500A,,ATS Aisikai,4,2099,2700,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKT1-3200,ATS 4P 3200A,,ATS Aisikai,4,2360,3000,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-100,MTS 4P 100A,,MTS Aisikai,4,82.7,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-125,MTS 4P 125A,,MTS Aisikai,4,87.7,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-160,MTS 4P 160A,,MTS Aisikai,4,87.7,140,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-250,MTS 4P 250A,,MTS Aisikai,4,105.67,170,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-400,MTS 4P 400A,,MTS Aisikai,4,155.36,250,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-630,MTS 4P 630A ,,MTS Aisikai,4,158,300,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-800,MTS 4P 800A,,MTS Aisikai,4,427.89,650,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-1000,MTS 4P 1000A   ,,MTS Aisikai,4,450,720,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKS1-2500,MTS 4P 2500A,,MTS Aisikai,4,1963,2400,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95034008,ATYS 4P 80A Socomec,,Atys Socomec,4,331.1,352,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95034012,ATYS 4P 125A Socomec,,Atys Socomec,4,373.8,425,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234016,ATYS 4P 160A Socomec,,Atys Socomec,4,556.5,638,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234025,ATYS 4P 250A Socomec,,Atys Socomec,4,784,840,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234040,ATYS 4P 400A Socomec ,,Atys Socomec,4,1078,1160,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234063,ATYS 4P 630A Socomec ,,Atys Socomec,4,1382.5,1480,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234100,ATYS 4P 1000A Socomec ,,Atys Socomec,4,1834,1960,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+95234160,ATYS  4P 1600A Socomce,,Atys Socomec,4,2625,3000,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC4013,MTS 4P 125A Socomec,,MTS Socomec,4,172,200,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC4016,MTS 4P 160A Socomec,,MTS Socomec,4,196,246,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC4025,MTS 4P 250A Socomec,,MTS Socomec,4,273,320,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC063,MTS 4P 630A Socomec,,MTS Socomec,4,664.17,600,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC4120,MTS  4P  1250A  Socomce,,MTS Socomec,4,1302,1420,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+41AC4200,MTS 4P 2000A Socomec,,MTS Socomec,4,2625,2835,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKR2-24V,ATS​​ Controller 24V,,ATS Controller,4,54,85,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SKR2-220V,ATS Controller 220V,,ATS Controller,4,60.36,85,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+901226290837986,ATS Controller ESD,,ATS Controller,4,128,140,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MTS0002,MTS Connection ,,ATS Controller,4,15,20,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PFR14-415,PFR 14 Step MIKRO  ,,Factor Power,4,110.44,160,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PFR12-415,PFR 12 Step MIKRO  ,,Factor Power,4,93.22,140,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PFR8-415,PFR 8 Step MIKRO  ,,Factor Power,4,87.47,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PFR6-415,PFR 6Step MIKRO  ,,Factor Power,4,78.91,100,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MX200,Over Under relay MX200 ,,Factor Power,4,33.6,41,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MX100,Check Phease MX 100 ,,Factor Power,4,26.09,33,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MK204,Over Current Relay MK 204 ,,Factor Power,4,75.58,100,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+RH-3D3Y,RH-3D3Y Mulitifunction,,Factor Power,4,38.4,70,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SW-20KT,SC  20KVAR​  士林,,Capactitor ,4,47.6,40,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SW-25KT,SC  25KVAR   ​វែង,,Capactitor ,4,40.88,50,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SW-10KT,SC 10KVAR ,,Capactitor ,4,21.85,28,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SW-15KT,SC 15KVAR  ,,Capactitor ,4,25.84,33,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SW-30KT,SC 30KVAR  ,,Capactitor ,4,46.53,60,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SK-15KT,SC 15KVAR  SHIZUKI,,Capactitor ,4,41,48,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SK-20KT,SC 20KVAR  SHIZUKI,,Capactitor ,4,57,64,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SK-25KT,SC 25KVAR  SHIZUKI,,Capactitor ,4,67,80,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SK-30KT,SC 30KVAR  SHIZUKI,,Capactitor ,4,116,126,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SK-10KT,SC 10KVAR  SHIZUKI,,Capactitor ,4,32.89,36,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VIM30,VIM -30UF,,Motor Capacitor,4,2.3,2.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VIM40,VIM-40UF,,Motor Capacitor,4,2.3,2.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VIM50,VIM-50UF,,Motor Capacitor,4,2.3,2.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ABC200,ABC-200MFD,,Motor Capacitor,4,2.5,2.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ABC300,ABC-300MFD,,Motor Capacitor,4,2.5,2.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ACB400,ABC-400MFD,,Motor Capacitor,4,2.5,2.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 814042,MC 3P 9A 230V ,,Contactor LS,4,7.7,8.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 815353,MC 3P 12A 230V ,,Contactor LS,4,8.4,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 816732,MC 3P 18A 230V ,,Contactor LS,4,12.6,13.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 818040,MC 3P 22A 230V ,,Contactor LS,4,15.4,16.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 798441,MC 3P 32A 230V ,,Contactor LS,4,22.4,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 800892,MC 3P 40A 230V ,,Contactor LS,4,26.6,28,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 803299,MC 3P 50A 230V ,,Contactor LS,4,31.5,34,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 805651,MC 3P 65A 230V,,Contactor LS,4,36.4,38,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+1340007000,MC 3P 75A 230V ,,Contactor LS,4,42,45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 810310,MC 3P 85A 230V,,Contactor LS,4,52.5,55,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 812719,MC 3P 100A 230V ,,Contactor LS,4,66.5,70,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809512 820937,MC 3P 150A 230V ,,Contactor LS,4,105,110,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+9311019070016,Overload   EOCR-SS05,,Over Load ,4,26.59,32,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+9111019070030,Overload   EOCR-SS60,,Over Load,4,25,32,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+1297000600,Over Load  1 ~1.6 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860284,Over Load  1.6 ~2.5 ,,Over Load,4,8.4,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860291,Over Load 2.5~4 ,,Over Load,4,8.4,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860307,Over Load  4 ~6 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860314,Over Load  5 ~8 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860321,Over Load  6 ~9 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860338,Over Load  7~ 10 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860345,Over Load  9 ~13 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+880925 4860352,Over Load  12 ~18 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860383,Over Load  22 ~32 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809254 860390,Over Load  28 ~40 ,,Over Load,4,9.59,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+83361634001,Aux.Contact MC -6A~150A,,Over Load,4,2.1,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ESDKWH 5-6000A,ESD -353-L  Kwh Meter CT 5-6000A  ,,Over Load,4,49.6,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ESDKWH10-100A,ESD -353-M-100  Kwh Meter Direct 10-100A  ,,Over Load,4,39.1,42,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+UK5N,Terminal Black 0.5-2.5mm  40A,,Over Load,4,0.65,0.9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+UK6N,Cover Terminal Black ,,Over Load,4,0.22,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ 8809514 163490,MCCB 3P 1000A 65KA ,,MCCB  LS,4,700,720,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 114591,MCCB 3P 800A 37KA ,,MCCB  LS,4,269.5,285,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 115772,MCCB 3P 630A 37KA ,,MCCB  LS,4,241.5,250,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 099317,MCCB 3P 400A 37KA ,,MCCB  LS,4,122.5,127,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 099171,MCCB 3P 300A 37KA ,,MCCB  LS,4,122.5,127,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 088410,MCCB 3P 250A 26KA,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 088304,MCCB 3P 225A 26KA,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 088182,MCCB 3P 200A 26KA,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 088069,MCCB 3P 175A 26KA ,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 087949,MCCB 3P 150A 26KA ,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 087840,MCCB 3P 125A 26KA ,,MCCB  LS,4,49,52,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 060751,MCCB 3P 100A 18KA ,,MCCB  LS,4,26.6,28,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 060652,MCCB 3P 75A 18KA ,,MCCB  LS,4,26.6,28,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 053630,MCCB 3P 60A 14KA ,,MCCB  LS,4,23.8,26,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 053319,MCCB 3P 50A 14KA ,,MCCB  LS,4,22.4,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 053234,MCCB 3P 40A   14KA,,MCCB  LS,4,22.4,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514 053166,MCCB 3P 30A  14KA,,MCCB  LS,4,22.4,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514050967,MCCB 2P 60A  14KA,,MCCB  LS,4,21,23,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181814,MCB 4P 63A  ,,MCB  LS,4,13.65,15,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06140128RO,MCB 4P 50A  ,,MCB  LS,4,13.65,15,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181784,MCB 4P 32A ,,MCB  LS,4,12.95,15,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514188004,MCB 3P 100A  ,,MCB  LS,4,19.25,21,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181296,MCB 3P 63A  ,,MCB  LS,4,7.14,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181289,MCB 3P 50A  ,,MCB  LS,4,7.14,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181272,MCB 3P 40A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181265,MCB 3P 32A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181258,MCB 3P 25A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181241,MCB 3P 20A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809511481234,MCB 3P 16A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181227,MCB 3P 10A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514181210,MCB 3P 6A  ,,MCB  LS,4,6.83,7.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180640,MCB 2P 63A  ,,MCB  LS,4,4.06,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06120224RO,MCB 2P 50A  ,,MCB  LS,4,4.13,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180626,MCB 2P 40A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180619,MCB 2P 32A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06120221RO,MCB 2P 25A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180596,MCB 2P 20A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180589,MCB 2P 16A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06120218RO,MCB 2P 10A  ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06120217RO,MCB 2P 6A   ,,MCB  LS,4,3.96,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180121,MCB 1P 63A  ,,MCB  LS,4,1.96,2.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180107,MCB 1P 40A  ,,MCB  LS,4,1.96,2.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180091,MCB 1P 32A ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180084,MCB 1P 25A  ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06110077RO,MCB 1P 20A  ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8806514180060,MCB 1P 16A  ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+06110075RO,MCB 1P  10A  ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8809514180046,MCB 1P 6A  ,,MCB  LS,4,1.75,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+880951190915,RCBO 1P+N  16A  30mA   ,,RCCB  LS,4,12.25,13,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+880514190946,RCBO 1P+N 20A 30mA     ,,RCCB  LS,4,12.25,13,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+880951191004,RCBO 1P+N  32A 30mA   ,,RCCB  LS,4,14,16,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+K47K466501,MCCB 3P 400A   Mitsubishi ,,MCCB  Mistubishi,4,185,200,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+20205053768KS,MCCB 3P 500A (LV563305) Schneider ,,MCCB  Schneider,4,325.3,330,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+330343199993,MCCB 3P 225A  Schneider ,,MCCB  Schneider,4,116.37,120,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3303430300496,MCCB 3P 100A  Schneider ,,MCCB  Schneider,4,43.7,47,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3303430300465,MCCB 3P 60A Schneider ,,MCCB  Schneider,4,39.97,43,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3303430300458,MCCB 3P 50A Schneider ,,MCCB  Schneider,4,37.096,41,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3303430300434,MCCB 3P 30A Schneider ,,MCCB  Schneider,4,36.13,40,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3303430300410,MCCB 3P 20A Schneider ,,MCCB  Schneider,4,36.13,40,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587856,MCB 3P 32A Schneider  ,,MCB Schneider,4,11.2,12.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587832,MCB 3P 20A Schneider   ,,MCB Schneider,4,11.2,12.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587085,MCB 3P 63A Schneider  ,,MCB Schneider,4,14.82,16,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587795,MCB 2P 63A  Schneider  ,,MCB Schneider,4,10.95,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587672,MCB 1P 32A Schneider   ,,MCB Schneider,4,2.35,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587665,MCB 1P 25A Schneider  ,,MCB Schneider,4,2.48,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587658,MCB 1P 20A Schneider   ,,MCB Schneider,4,2.3,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587641,MCB 1P 16A Schneider   ,,MCB Schneider,4,2.25,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587634,MCB 1P 10A Schneider   ,,MCB Schneider,4,2.25,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480587627,MCB 1P 6A  Schneider  ,,MCB Schneider,4,2.25,2.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSMK100,ជើងចាប់ឌីសង់ទ័រ,,MCB Kit,4,1.2,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFH32A690V,Fuse Holder 1P 32A ,,Fuse,4,1.6,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL32A,Fuse Link 32A ,,Fuse,4,0.32,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL16A,Fuse Link 16A ,,Fuse,4,0.32,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL10A,Fuse Link 10A ,,Fuse,4,0.32,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL06A,Fuse Link 6A ,,Fuse,4,0.24,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL04A,Fuse Link 4A ,,Fuse,4,0.24,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSFL02A,Fuse Link 2A ,,Fuse,4,0.24,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-2500A,នាឡិកា  2500/5A B-96,,Amp Meter,4,4.4,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-2000A,នាឡិកា  2000/5A  B-96,,Amp Meter,4,8,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-1500A,នាឡិកា  1500/5A  B-96,,Amp Meter,4,8,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-1200A,នាឡិកា  1200/5A D-96,,Amp Meter,4,4.68,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-1000A,នាឡិកា  1000/5A  B-96,,Amp Meter,4,6.7,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-1000A,នាឡិកា  1000/5A D-96,,Amp Meter,4,4.68,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-800A,នាឡិកា  800/5A  B-96,,Amp Meter,4,6.7,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-800A,នាឡិកា  800/5A  D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-600A,នាឡិកា  600/5A B-96,,Amp Meter,4,4.4,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-600A,នាឡិកា  600/5A D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-400A,នាឡិ្កកា  400/5A  D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-300A,នាឡិកា​  300/5A  D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-250A,នាឡិកា  250/5A D-96,,Amp Meter,4,3.27,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-200A,នាឡិកា  200/5A D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-150A,នាឡិកា  150/5A D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-100A,នាឡិកា  100/5A D-96,,Amp Meter,4,4.68,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-100A,នាឡិកា  100/5A B-96,,Amp Meter,4,4.4,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-600A,នាឡិកា 600/5A B-72,,Amp Meter  ,4,6.5,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-500A,នាឡិកា 500/5A B-72,,Amp Meter,4,6.5,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-400A,នាឡិកា 400/5A B-72,,Amp Meter,4,6.2,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-300A,នាឡិកា 300/5A B-72,,Amp Meter,4,6,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BE-72-200A,នាឡិកា 200/5A T-72,,Amp Meter,4,4.4,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BE-72-100A,នាឡិកា 100/5A T-72,,Amp Meter,4,3.96,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BE-72-50A,នាឡិកា  50/5A T-72,,Amp Meter,4,6,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-300A,នាឡិកា 300/5A  B-670,,Amp Meter,4,3.8,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-200A,នាឡិកា 200/5A  B-670,,Amp Meter,4,3.8,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-150A,នាឡិកា 150/5A  B-670,,Amp Meter,4,4,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-100A,នាឡិកា 100/5A  B-670,,Amp Meter,4,4,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-50A,នាឡិកា 50/5A    B-670,,Amp Meter,4,4,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-96-500V,នាឡិកាវុល 500V  B-96,,Amp Meter,4,4.08,6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-500V,នាឡិកាវុល 500V  B-72,,Amp Meter,4,5,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-500V,នាឡិកាវិល 500V  B-670,,Amp Meter,4,4,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-300V,នាឡិកាវិល 300V  B670,,Amp Meter,4,3.8,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-HZ,Hz  45-65​​ 220V D-96,,HZ Meter,4,12.84,17,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-72-HZ,Hz  45-65 220V  B-72,,HZ Meter,4,12.84,20,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BP-670-HZ,Hz  45-65 220V  B-670,,HZ Meter,4,18,19,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DE-96-COS,Cos φ meter 220V D-96,,HZ Meter,4,17,19,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT2500T,តេអ៊ី 2500/5A,,CT,4,12.79,18,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT2500MBO,តេអ៊ី 2500/5A  ,,CT,4,28.05,32,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT2000MBO,តេអ៊ី 2000/5A,,CT,4,19.55,23,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT1600MBO,តេអ៊ី 1600/5A,,CT,4,12.75,16,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT1600T,តេអ៊ី 1600/5A,,CT,4,9.68,13,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT1250MBO,តេអ៊ី 1250/5A ,,CT,4,11.48,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT1000MBO,តេអ៊ី 1000/5A,,CT,4,11.05,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT800MBO,តេអ៊ី 800/5A ,,CT,4,10.63,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT800T,តេអ៊ី 800/5A ,,CT,4,8.08,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT600MBO,តេអ៊ី 600/5A ,,CT,4,8.93,10.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT600T,តេអ៊ី 600/5A ,,CT,4,5.85,7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT400MBO,តេអ៊ី 400/5A  ,,CT,4,8.93,10.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT400T,តេអ៊ី 400/5A ,,CT,4,5.11,6.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT300MBO,តេអ៊ី 300/5A ,,CT,4,4.68,5.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT200MBO,តេអ៊ី 200/5A  ,,CT,4,4.68,5.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT150MBO,តេអ៊ី 150/5A ,,CT,4,4.25,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT100MBO,តេអ៊ី 100/5A ,,CT,4,4.25,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT100T,តេអ៊ី 100/5A ,,CT,4,4.07,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT75MBO,តេអ៊ី 75/5A ,,CT,4,4.25,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT50MBO,តេអ៊ី 50/5A ,,CT,4,4.25,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT300T,តេអ៊ី 300/5A ,,CT,4,3.87,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT200T,តេអ៊ី 200/5A,,CT,4,3.87,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT150T,តេអ៊ី 150/5A ,,CT,4,3.87,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CT50T,តេអ៊ី 50/5A,,CT,4,3.94,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CAM-ACB,កុងតាត់ ,,Selector Volt & Amp,4,8,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CAM-V,កុងតាត់វុល  ,,Selector Volt & Amp,4,5.35,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CAM-A,កុងតាត់អំពែ  ,,Selector Volt & Amp,4,5.35,7.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CAM-AU,កុងតាត់អ៊ូតូ,,Selector Volt & Amp,4,7.1,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHTG-2210S,កុងតាត់ដែក ,,Selector Volt & Amp,4,1.66,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PR25P-220V,អំពូលសញ្ញា 220V  ,,Lamp,4,1.6,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DLP22-220V,អំពូល​សញ្ញា  220V ,,Lamp,4,0.67,0.9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DLP22-12V,អំពូលសញ្ញា​  12V ,,Lamp,4,0.62,0.9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DLP22-24V,អំពូលសញ្ញា​  24DC ,,Lamp,4,0.7,1,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DLP16-220V,អំពូលសញ្ញា  220V ,,Lamp,4,0.93,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YW1P1UQM3R220V,អំពូលសញ្ញា 220V  ,,Lamp,4,1.21,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YW1P1UQM3G220V,អំពូលសញ្ញា 220V  ,,Lamp,4,1.31,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ PR-30B-1 ,ចុចពន្លត  ,,Selector ,4,1.43,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSAP12-11,ចុចពន្លត់​​   ,,Selector ,4,1.75,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSAP13-11 ,ចុចពន្លត   ,,Selector ,4,1.75,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSAR2-311L,កុងតាត់ 3 តង់ ,,Selector ,4,1.9,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSAR3-311L,កុងតាត់ 2 តង់ ,,Selector ,4,1.9,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSASEP323-11RA,ទះពន្លត់​   ,,Selector ,4,2.8,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8 433754045089,ទះពន្លត់​  Himel  ,,Selector ,4,2.18,4.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PGS312,កុងតាត់ 3 តង់ ,,Selector ,4,1.76,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PGS212,កុងតាត់ 2 តង់ ,,Selector ,4,2.06,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480421877,កុងតាត់ 3 តង់ Schneider,,Selector ,4,5.2,7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480422348,ជើង NC,,Selector ,4,0.98,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3606480422331,ជើង NO,,Selector ,4,0.98,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YSAPBL2-AL22,ប៊ូតុងចុចមានភ្លើង ,,Selector ,4,3.6,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ LA38 BT22 ,ប៊ូតុងចុចមានភ្លើង ,,Selector ,4,1.1,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+AL6-M220 ,ប៊ូតុងចុចមានភ្លើង ,,Selector ,4,1.1,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+AL6-M24 ,ប៊ូតុងចុចមានភ្លើង ,,Selector ,4,1.1,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKS2P-AC220,រីឡេជើង8 220V 10A,,Relay,4,7.15,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKS2P-DC24,រីឡេជើង8 24V 10A,,Relay,4,7.18,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKS2P-DC12,រីឡេជើង8 12V 10A,,Relay,4,7.15,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKS3P-DC24,រីឡេជើង11 24V 10A,,Relay,4,7.76,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKS3P-AC220,រីឡេជើង11 220V 10A,,Relay,4,7.76,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+RXM4AB2P7230V,រីឡេជើង14  220V  Schneider,,Relay,4,8.76,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSREL-5A-14PIN220V,រីឡេជើង14​  220V​ ,,Relay,4,1.76,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSREL-5A-14PIN24V,រីឡេជើង14  24V ,,Relay,4,1.76,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSREL-5A-14PIN12V,រីឡេជើង14  12V ,,Relay,4,1.76,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSREL-10A-8PIN220V,រីឡេជើង8  220V ,,Relay,4,2.24,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TMSOC8PIN,ជើងរីឡេ 8  ល្អ,,Socket Relay,4,1.2,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKSOC8PIN,ជើងរីឡេ 8  ,,Socket Relay,4,0.4,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EDSSOC-14PIN,ជើងរីឡេ14  EDS,,Socket Relay,4,1.44,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MKSOC-11PIN,ជើងរីឡេ11 ,,Socket Relay,4,0.4,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MXSOC-11PIN,ជើងរីឡេ11 ,,Socket Relay,4,1.97,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CSOTM24H,Timer 24 Hours  ,,Timer,4,16.82,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHTM30S220V,Timer 30S  220V ,,Timer,4,7.24,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHTM30S24V,Timer 30S  24DC ,,Timer,4,7.24,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CKTM30S220V,Timer 30S 220V ,,Timer,4,3.5,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+JKNTM30S220V,Timer 30S 220V ,,Timer,4,7,8.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+JKNTM30S24V,Timer 30S 24V,,Timer,4,7.5,8.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+JKNTM30S12V,Timer 30S 12V,,Timer,4,8.3,9.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+T48N-30ATM,Timer T48N_30A  24-240V ,,Timer,4,8.5,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+3389119 400107,Timer 0-100H Schneider,,Timer,4,31.2,34,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ANLYTM12M,Timer 12M ANLY,,Timer,4,9,11.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ANLYTM12S,Timer 12S  ANLY,,Timer,4,8,11.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+ANLYTM60S,Timer 60S  ANLY,,Timer,4,8,11.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+KG316TM24H,Timer-316Tpunai 24H,,Timer,4,6.5,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P12010030,ទូភ្លើង 1200 x 1000 x 300,,Panel,4,120,160,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P1008040,ទូភ្លើង 1000 x 800 x 400,,Panel,4,100,130,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P809525,ទូភ្លើង  800 x 950 x 250,,Panel,4,81,90,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P608025,ទូភ្លើង 600 x 800 x 250,,Panel,4,54,58,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P608030,ទូភ្លើង  600 x 800 x 30,,Panel,4,62,73,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P507025,ទូភ្លើង 500 x 700 x 250,,Panel,4,44,48,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P406025,ទូភ្លើង 400 x 600 x 250        ,,Panel,4,30,34,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P405022,ទូភ្លើង 400 x 500 x 220       ,,Panel,4,27,31,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P304022,ទូភ្លើង 300 x 400 x 220   ,,Panel,4,20,22,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+P203020,ទូភ្លើង  200 x 300 x 200,,Panel,4,13,16,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-100T,ខ្សែរិត 100 x 3​ ពណ៌សរ,,Cable Tie,1,0.27,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-300T,ខ្សែរិត 300 x  8 ពណ៌សរ,,Cable Tie,1,1.86,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-400T,ខ្សែរិត 400 x  8​ ពណ៌សរ,,Cable Tie,1,2.45,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-500T,ខ្សែរិត 500 x  10 ពណ៌សរ,,Cable Tie,1,4.93,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-150T,ខ្សែរិត 150 x 3.6  ពណ៌ខ្មៅ,,Cable Tie,1,0.75,1.3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-200T,ខ្សែរិត 200 x 4.6  ពណ៌ខ្មៅ,,Cable Tie,1,1.29,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-250T,ខ្សែរិត 250 x 3.6  ពណ៌ខ្មៅ,,Cable Tie,1,1.81,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB-300T,ខ្សែរិត 300 x 4.6  ពណ៌ខ្មៅ,,Cable Tie,1,2.21,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TGB500T,ខ្សែរិត 500 x 7.6 ពណ៌ខ្មៅ,,Cable Tie,1,9.82,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SOFT16,ហ្គេន No.16,,Cable Tie,5,8.8,9.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TM2525,ស្កុបិតទូ​ 25 x 25,,Cable Tie,1,1.51,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TM3030,ស្កុបិតទូ​ 30 x 30,,Cable Tie,1,1.51,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-20P,ដូមីណូ 20P 20A ,,Domino,4,2.5,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-15P,ដូមីណូ 15P 20A ,,Domino,4,2.2,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-12P,ដួមីណួ 12P 20A ,,Domino,4,1.8,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-10P,ដួមីណូ 10P 20A ,,Domino,4,1.5,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-6P,ដួមីណួ 6P 20A ,,Domino,4,0.93,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-20A-4P,ដួមីណួ 4P 20A ,,Domino,4,0.9,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-30A-10P,ដួមីណូ 10P 30A  ,,Domino,4,2,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-30A-6P,ដួមីណួ 6P 30A  ,,Domino,4,1.5,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-30A-4P,ដូមីណួ 4P 30A  ,,Domino,4,0.89,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-60A-4P,ដូមីណួ 4P 60A  ,,Domino,4,1.96,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-100A-4P,ដួមីណូ 4P 100A  ,,Domino,4,3.91,7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-150A-4P,ដូមីណូ 4P 150A  ,,Domino,4,5.81,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHT-200A-4P,ដូមីណួ 4P 200A  ,,Domino,4,6.95,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 240 - 14,កូសស្ពាន់ 240,,COS,4,2.44,2.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 185 - 12,កូសស្ពាន់ 185,,COS,4,1.45,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 150 - 12,កូសស្ពាន់ 150,,COS,4,1,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 120 - 12,កូសស្ពាន់ 120,,COS,4,0.76,1.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 95 - 10-12,កូសស្ពាន់ 95,,COS,4,0.77,0.9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 70 - 10-12,កូសស្ពាន់ 70,,COS,4,0.51,0.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 50 - 8-10,កូសស្ពាន់ 50,,COS,4,0.25,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 35 - 8-10,កូសស្ពាន់ 35,,COS,4,0.16,0.26,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 25 - 8-10,កូសស្ពាន់ 25,,COS,4,0.11,0.22,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 16 - 6-8-10,កូសស្ពាន់ 16,,COS,4,0.075,0.13,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SC 10 - 6-8-10,កូសស្ពាន់ 10,,COS,4,0.054,0.11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIN 1.25F-18,កូសម្ជុល 1.25,,COS,1,1.24,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIN 2.0F-18,កូសម្ជុល 2,,COS,1,1.75,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIN 5.5F-14,កូសម្ជុល 5.5,,COS,1,1.95,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FDD 2-250,កូសដោត GHIM  2,,COS,1,1.07,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FDD 1.25-250,កូសដោត GHIM  1.25,,COS,1,0.98,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 2-4Y,កូសចំពាម​​   2-4Y,,COS,1,1.1,1.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 1.25-3Y,កូសចំពាម​​  1.25 - 3Y,,COS,1,0.98,1.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 1.25-10R,កូសក្រវិល​​  1.25 - 10R,,COS,1,1.48,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 1.25-5R,កូសក្រវិល​  1.25 - 5R,,COS,1,0.8,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 2-5R,កូសក្រវិល ​2 - 5R,,COS,4,0.93,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 1.25-6R,កូសក្រវិល​  1.25-6R,,COS,1,1.18,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 3.5-6R,កូសក្រវិល​  3.5-6R,,COS,1,1.67,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 5.5-6R,កូសក្រវិល​  5.5-6R,,COS,1,2.3,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 2-12R,កូសក្រវិល​ ​2 - 12R,,COS,4,3.87,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VF 2-10R,កូសក្រវិល​ ​2 - 10R,,COS,4,1.7,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LT 100,កូសសូក LT 1.0,,COS,1,0.47,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LT 150,កូសសូក LT 1.5,,COS,1,0.54,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIN 1.25-13,កូសសូក PTV 1.25,,COS,1,1.12,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIN 2.0-13,កូសសូក PTV 2,,COS,1,1.29,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BV 1.25,សុងត BF 1.25,,COS,1,1.22,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BV 2.0,សុងត BF 2,,COS,1,1.42,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BV 5.5,សុងត BF 5.5,,COS,1,2.16,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-240,កូសអាលុយមីញ៉ូម 240,,AL COS,4,3,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-185,កូសអាលុយមីញ៉ូម 185,,AL COS,4,2.9,3.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-150,កូសអាលុយមីញ៉ូម 150,,AL COS,4,2,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-120,កូសអាលុយមីញ៉ូម 120,,AL COS,4,1.9,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-95,កូសអាលុយមីញ៉ូម 95,,AL COS,4,1.2,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-70,កូសអាលុយមីញ៉ូម 70,,AL COS,4,1,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-50,កូសអាលុយមីញ៉ូម 50,,AL COS,4,1,1.3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-35,កូសអាលុយមីញ៉ូម 35,,AL COS,4,0.77,1.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTC-25,កូសអាលុយមីញ៉ូម 25,,AL COS,4,0.77,1.1,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL150,សុងអាលុយមីញ៉ូម 150,,AL Contaction,4,0.52,1,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL95,សុងអាលុយមីញ៉ូម 95,,AL Contaction,4,0.45,0.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL70,សុងអាលុយមីញ៉ូម 70,,AL Contaction,4,0.33,0.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL50,សុងអាលុយមីញ៉ូម 50,,AL Contaction,4,0.25,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL35,សុងអាលុយមីញ៉ូម 35,,AL Contaction,4,0.2,0.4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DTL25,សុងអាលុយមីញ៉ូម 25,,AL Contaction,4,0.15,0.3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 240,សុងតខ្សែភ្លើង 240,,Contaction,4,1.86,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 185,សុងតខ្សែភ្លើង 185,,Contaction,4,1.44,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 150,សុងតខ្សែភ្លើង 150,,Contaction,4,1.14,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 120,សុងតខ្សែភ្លើង 120,,Contaction,4,0.84,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 95,សុងតខ្សែភ្លើង 95,,Contaction,4,0.68,1,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 70,សុងតខ្សែភ្លើង 70,,Contaction,4,0.46,0.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 50,សុងតខ្សែភ្លើង 50,,Contaction,4,0.25,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 35,សុងតខ្សែភ្លើង 35,,Contaction,4,0.16,0.27,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 25,សុងតខ្សែភ្លើង 25,,Contaction,4,0.13,0.25,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+L 16,សុងតខ្សែភ្លើង 16,,Contaction,4,0.09,0.14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS6,ហ្គេនរុំខ្យែភ្លើង YS 6​  ,,Spiral Wrapping Band,1,0.55,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS8,ហ្គេនរុំខ្យែភ្លើង YS 8,,Spiral Wrapping Band,1,0.82,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS10,ហ្គេនរុំខ្យែភ្លើង YS 10,,Spiral Wrapping Band,1,0.95,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS12,ហ្គេនរុំខ្យែភ្លើង YS 12,,Spiral Wrapping Band,1,1.2,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS15,ហ្គេនរុំខ្យែភ្លើង YS 15,,Spiral Wrapping Band,1,1.7,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+YS19,ហ្គេនរុំខ្យែភ្លើង YS 19,,Spiral Wrapping Band,1,2.12,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-101,កុងតាត់កំណត់ ,,Limit Switch,4,6.17,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-102,កុងតាត់កំណត់ ,,Limit Switch,4,6.8,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-103,កុងតាត់កំណត់ ,,Limit Switch,4,6.35,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-104,កុងតាត់កំណត់ ,,Limit Switch,4,6.35,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-105,កុងតាត់កំណត់ ,,Limit Switch,4,6.35,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SHLS-106,កុងតាត់កំណត់ ,,Limit Switch,4,8.27,12,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+GH15050HA2SL,កង្ហារ 150 x 150,,Fan,4,6.5,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+GH20060HA2BL,កង្ហារ 200 x 200,,Fan,4,13,17,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+GH120C,អង្សារ 20~120C,,Fan,4,9,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TD25 x 25,ប្រអប់ខ្សែភ្លើង  25 x 45  ,,Trunking,4,1.96,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TD25 x 45,ប្រអប់ខ្សែភ្លើង  25 x 45  ,,Trunking,4,1.96,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TD33 x 33,ប្រអប់ខ្សែភ្លើង  33 x 33,,Trunking,4,2.29,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+TD45 x 45,ប្រអប់ខ្សែភ្លើង  45 x 45   ,,Trunking,4,2.29,4,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM0.75,ខ្សែភ្លើងទន់ 0.75mm x 1C ,,Flexible Cable,5,7.17,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM1,ខ្សែភ្លើងទន់ 1.0mm x 1C,,Flexible Cable,5,9.31,13,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM1.5,ខ្សែភ្លើងទន់  1.5mm x 1C,,Flexible Cable,5,13.05,15,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM2.5,ខ្សែភ្លើងទន់ 2.5mm x 1C,,Flexible Cable,5,19.61,24,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM4,ខ្សែភ្លើងទន់ 4.0mm x 1C ,,Flexible Cable,2,0.31,0.45,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM6,ខ្សែភ្លើងទន់ 6.0mm x 1C,,Flexible Cable,2,0.46,0.55,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM10,ខ្សែភ្លើងទន់ 10mm x 1C ,,Flexible Cable,2,0.76,0.95,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM16,ខ្សែភ្លើងទន់ 16mm x 1C ,,Flexible Cable,2,1.3,1.6,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM25,ខ្សែភ្លើងទន់ 25mm x 1C ,,Flexible Cable,2,1.85,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM35,ខ្សែភ្លើងទន់ 35mm x 1C ,,Flexible Cable,2,2.7,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM50,ខ្សែភ្លើងទន់ 50mm x 1C,,Flexible Cable,2,4.03,4.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+VCM10,ខ្សែភ្លើងទន់ 10mm x 1C,,Flexible Cable,2,1.02,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LS1.5,ខ្សែភ្លើងរឹង 1.5mm x 1C​ ,,Cable LS,5,13,14,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LS2.5,ខ្សែភ្លើងរឹង​ 2.5mm x 1C,,Cable LS,5,22.5,23.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LS4,ខ្សែភ្លើងរឹង 4mm x 1C ,,Cable LS,5,36.8,38,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+LS6,ខ្សែភ្លើងរឹង 6mm x 1C ,,Cable LS,5,54.6,56,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CPR180,ដែកទែរ,,Copper Rod,4,4.5,5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+CLAMP180,ក្រចាប់ទែរ,,Copper Rod,4,1.7,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+880304 100232,ស្គុតរុំខ្សែភ្លើង 3M,,3M Tape,5,0.66,0.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+8850304 100171,ស្គុតរុំខ្សែភ្លើង 3M,,3M Tape,5,0.33,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-0,ខ្សែលេខ No. 0,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-1,ខ្សែលេខ No. 1,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-2,ខ្សែលេខ No. 2,,Cable Marker,5,0.56,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-3,ខ្សែលេខ No. 3,,Cable Marker,5,0.56,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-4,ខ្សែលេខ No. 4,,Cable Marker,5,0.56,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-5,ខ្សែលេខ No. 5,,Cable Marker,5,0.56,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-6,ខ្សែលេខ No. 6,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-7,ខ្សែលេខ No. 7,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-8,ខ្សែលេខ No. 8,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-9,ខ្សែលេខ No. 9,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-A,ខ្សែលេខ A ,,Cable Marker,5,68,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-B,ខ្សែលេខ B,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-C,ខ្សែលេខ C,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-D,ខ្សែលេខ D,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-R,ខ្សែលេខ R,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-S,ខ្សែលេខ S,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-T,ខ្សែលេខ T,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-U,ខ្សែលេខ U,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-V,ខ្សែលេខ V,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-W,ខ្សែលេខ W,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-E,ខ្សែលេខ E,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-N,ខ្សែលេខ N,,Cable Marker,5,0.84,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-G,ខ្សែលេខ G,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-K,ខ្សែលេខ K,,Cable Marker,5,0.77,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-+-,ខ្សែលេខ "+" " -",,Cable Marker,5,0.68,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EC-P,ផ្លាក់បិតទូ,,Cable Marker,4,0.65,1.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф70,ហ្គេនរោលស្ពាន់ ф 70,,Copper Flexible,2,1.98,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф60,ហ្គេនរោលស្ពាន់ ф  60,,Copper Flexible,2,1.49,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф50,ហ្គេនរោលស្ពាន់  ф 50,,Copper Flexible,2,1.23,2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф40,ហ្គេនរោលស្ពាន់  ф 40,,Copper Flexible,2,0.94,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф35,ហ្គេនរោលស្ពាន់  ф 35,,Copper Flexible,2,0.86,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф30,ហ្គេនរោលស្ពាន់  ф 30,,Copper Flexible,2,0.73,1.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф22,ហ្គេនរោលស្ពាន់ ф 22,,Copper Flexible,2,0.34,0.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф20,ហ្គេនរោលស្ពាន់  ф 20,,Copper Flexible,2,0.4,0.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф18,ហ្គេនរោលស្ពាន់ ф 18,,Copper Flexible,2,0.35,0.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф16,ហ្គេនរោលស្ពាន់  ф 16,,Copper Flexible,2,0.29,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф12,ហ្គេនរោលស្ពាន់  ф 12,,Copper Flexible,2,0.25,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф10,ហ្គេនរោលស្ពាន់  ф10,,Copper Flexible,2,0.23,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PHIф8,ហ្គេនរោលស្ពាន់ ф 8,,Copper Flexible,2,0.2,0.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MS480,សោទូ​ខ្មៅចុច  ,,Key,4,4.87,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MS722​​ ,សោកន្ទុយត្រី ,,Key,4,1.26,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MS306-1-1 ,សោទូអ៊ីណុកកាច់ដៃ ,,Key,4,4.81,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+AB301-1-1 ​​,សោទូទឹកប្រាក់ធំចុច  ,,Key,4,4.02,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MS603-3-2R​​ ,សោទូទឹកប្រាក់តូចចុច ,,Key,4,1.15,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BLHL 051-1.3​ ,ត្រចៀកទ្វាធំ,,Key,4,2.3,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BLHL 009​​ ,ត្រចៀកទ្វាកណ្តាល​ ,,Key,4,1.04,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BLHL 051-3-3​  ,ត្រចៀកទ្វាតូច​ ,,Key,4,1.03,1.8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BLHL 051-2.3,ត្រចៀកទ្វាបន្ទាប់ធំ​ ,,Key,4,1.41,2.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+BLHL044.3,ត្រចៀកទ្វា​ ,,Key,4,0.97,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+Lock-17CM,សោឃ្លប់តូច,,Lock Canopy,4,8.2,11,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+Lock-14CM,សោឃ្លប់តូច,,Lock Canopy,4,6.09,10,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MS182​​  ,សោឃ្លប់តូច  ,,Lock Canopy,4,7.3,9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FD1E-4 ,ឌីណាម៉ួល  22.5Kva  ,,Alternator,4,540.1,600,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FD1F-4,ឌីណាម៉ួល 27.5Kva,,Alternator,4,577.28,650,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU315E350,ឌីណាម៉ូល 350Kva ,,Alternator,4,0,3100,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU270J250,ឌីណាម៉ូល 250Kva ,,Alternator,4,2246.3,2600,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU270G200,ឌីណាម៉ូល 200Kva ,,Alternator,4,1866,2250,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU270ES150,ឌីណាម៉ូល 150Kva ,,Alternator,4,1645.46,1850,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU270C125,ឌីណាម៉ូល 125Kva ,,Alternator,4,1438.31,1650,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU270B100,ឌីណាម៉ូល 100Kva,,Alternator,4,1305.33,1450,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU225FS80,ឌីណាម៉ូល 80Kva,,Alternator,4,1150.68,1270,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU225D60,ឌីណាម៉ូល 60Kva ,,Alternator,4,955,1150,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU225C50,ឌីណាម៉ូល 50Kva ,,Alternator,4,872.35,1050,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU180G42.5,ឌីណាម៉ូល 42.5Kva,,Alternator,4,805.82,950,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU180F37.5,ឌីណាម៉ូល 37.5Kva,,Alternator,4,0,850,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU180D27.5,ឌីណាម៉ូល 27.5Kva,,Alternator,4,607.72,700,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU180C22.5,ឌីណាម៉ូល 22.5Kva,,Alternator,4,555.3,650,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU180B18.8,ឌីណាម៉ូល 18.8Kva,,Alternator,4,503.5,600,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SMU160D13.5,ឌីណាម៉ូល 13.5Kva,,Alternator,4,503.5,580,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EL130,Busbar Support 1P ( EL130),,Busbar Support,4,2.35,3.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EL295,Busbar Support  4P ( EL295),,Busbar Support,4,5.29,8,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EL409,Busbar Support  4P ( EL409),,Busbar Support,4,6.92,9.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+EL270,Busbar Suppoer  3P ( EL270),,Busbar Support,4,3.06,6.5,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SM-25,កំណល់ 25mm,,Isolator Busbar ,4,0.46,0.7,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SM-35,កំណល់ 35mm,,Isolator Busbar ,4,0.57,0.9,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SM-51,កំណល់ 51mm,,Isolator Busbar ,4,0.8,1.2,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SM-76,កំណល់  76mm,,Isolator Busbar ,4,2.06,3,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+OF4587260,Oil Filer 4587260 ( 250Kva ),,Spare part,4,25,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DF4587258,Diesel Fileter 4587258 ( 250Kva ),,Spare part,4,29,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DF4587259,Diesel Fileter 4587259 ( 250Kva ),,Spare part,4,19,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+OF10929,Oil Filter CH10929  ( 650Kva ),,Spare part,4,25,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DF10929,Diesel Filter CH10930 ( 650Kva ),,Spare part,4,16,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DF10930,Diesel Filter CH10930 ( 650Kva ),,Spare part,4,20,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+OF2656A111,Oil Filter 2656A111 ( 200Kva ),,Spare part,4,16,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+DF26561118,Diesel Filter 26561118 (200Kva ),,Spare part,4,12,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FMFLS01111,Fuel Meter + Fuel Level Sensor,,Spare part,4,18,40,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+MFPC01112,Manuel Fule Pump Cummins,,Spare part,4,30.25,50,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+SB01113,Switch Battery,,Spare part,4,12,25,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+FG01114,ម្រាមដៃ 150mm,,Spare part,4,5,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
+PIPE90,ទុយោ 90",,Pipe,4,32,0,10, No Tax, exclusive,,,,,,,,,,,,,,no_image.png,standard
